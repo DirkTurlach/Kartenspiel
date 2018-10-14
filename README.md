@@ -1,0 +1,2 @@
+# Kartenspiel
+Kartenspiel in cpp
