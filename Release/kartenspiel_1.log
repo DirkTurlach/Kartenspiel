@@ -1,0 +1,10 @@
+﻿  initialisieren.cpp
+c:\users\csl\documents\visual studio 2010\projects\kartenspiel_1\karte_geben.h(1): error C2061: Syntaxfehler: Bezeichner 'Spieler'
+initialisieren.cpp(26): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(105): Siehe Deklaration von 'strcpy'
+initialisieren.cpp(28): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(105): Siehe Deklaration von 'strcpy'
+initialisieren.cpp(29): warning C4305: '=': Verkürzung von 'double' in 'bool'
+  karte_geben.cpp
+  main_kartenspiel_1c.cpp
+  winner_ausgabe_round.cpp

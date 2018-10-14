@@ -1,0 +1,1 @@
+void karte_geben (Kartendeck*, Spieler*);

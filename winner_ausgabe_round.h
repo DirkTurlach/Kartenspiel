@@ -1,0 +1,1 @@
+void winner_ausgabe_round (Spieler*);
