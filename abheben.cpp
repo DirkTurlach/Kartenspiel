@@ -16,7 +16,7 @@ void abheben(Kartendeck* deck)
 	srand(time(0));
 	abhebePunkt = (rand() % 46 + 3); 
 	cout << abhebePunkt << endl << endl;
-//*****************************************
+//****************************************
 	//for(int i = 0; i < 26;i++)
 	//{
 	//	tmp[i] = deck ->k[i];
